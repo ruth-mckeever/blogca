@@ -1,3 +1,7 @@
+## IMPORTANT
+This is just an extended version of the blog project created by Code With Dary - look at his project for up to date version.
+All the code is his apart from the Enquiries form.
+
 ## Laravel 8 Complete Blog
 
 This repository is linked to [this youtube video](https://www.youtube.com/watch?v=HKJDLXsTr8A&t=4710s) where I show you how to create a complete blog in Laravel 8 using best practices.
